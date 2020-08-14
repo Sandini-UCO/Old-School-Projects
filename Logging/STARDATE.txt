@@ -1,0 +1,37 @@
+INFO    2020-03-25 02:51:24,496 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 02:52:09,608 [main] Main  - Choice 2 was selected
+INFO    2020-03-25 02:52:09,608 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 02:53:21,346 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 02:53:45,899 [main] Main  - Choice 1 was selected
+WARN    2020-03-25 02:53:45,900 [main] Main  - Warning level can be displayed
+ERROR   2020-03-25 02:53:45,901 [main] Main  - Error level can be displayed
+FATAL   2020-03-25 02:53:45,901 [main] Main  - Fatal level can be displayed
+INFO    2020-03-25 02:53:45,902 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 02:54:56,546 [main] Main  - Hey we are at the beginning of the loop.
+FATAL   2020-03-25 02:56:02,451 [main] Main  - Fatal level can be displayed
+INFO    2020-03-25 02:56:02,461 [main] Main  - Choice 1 was selected
+WARN    2020-03-25 02:56:02,462 [main] Main  - Warning level can be displayed
+ERROR   2020-03-25 02:56:02,462 [main] Main  - Error level can be displayed
+INFO    2020-03-25 02:56:02,462 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 02:56:08,333 [main] Main  - Choice 7 was selected
+INFO    2020-03-25 02:57:35,477 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 02:58:01,773 [main] Main  - Choice 7 was selected
+INFO    2020-03-25 02:59:38,074 [main] Main  - Hey we are at the beginning of the loop.
+FATAL   2020-03-25 02:59:45,859 [main] Main  - Fatal level can be displayed
+INFO    2020-03-25 02:59:45,868 [main] Main  - Choice 1 was selected
+WARN    2020-03-25 02:59:45,868 [main] Main  - Warning level can be displayed
+ERROR   2020-03-25 02:59:45,868 [main] Main  - Error level can be displayed
+INFO    2020-03-25 02:59:45,869 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 03:00:08,261 [main] Main  - Choice 7 was selected
+FATAL   2020-03-25 03:00:57,621 [main] Main  - Fatal level can be displayed
+INFO    2020-03-25 11:04:49,225 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 11:07:18,914 [main] Main  - Hey we are at the beginning of the loop.
+FATAL   2020-03-25 11:07:55,244 [main] Main  - Fatal level can be displayed
+INFO    2020-03-25 11:07:55,255 [main] Main  - Choice 1 was selected
+WARN    2020-03-25 11:07:55,256 [main] Main  - Warning level can be displayed
+ERROR   2020-03-25 11:07:55,256 [main] Main  - Error level can be displayed
+INFO    2020-03-25 11:07:55,257 [main] Main  - Hey we are at the beginning of the loop.
+INFO    2020-03-25 11:08:10,300 [main] Main  - Choice 7 was selected
+FATAL   2020-03-25 11:08:48,626 [main] Main  - Fatal level can be displayed
+WARN    2020-03-25 11:08:48,631 [main] Main  - Warning level can be displayed
+ERROR   2020-03-25 11:08:48,631 [main] Main  - Error level can be displayed

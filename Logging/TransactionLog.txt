@@ -1,0 +1,10 @@
+[FATAL] 04-19-2020 16:58:40 Main CheckSelection - Fatal level can be displayed
+[WARN] 04-19-2020 16:58:40 Main CheckSelection - Warning level can be displayed
+[ERROR] 04-19-2020 16:58:40 Main CheckSelection - Error level can be displayed
+[INFO] 04-19-2020 16:59:05 Main main - Hey we are at the beginning of the loop.
+[FATAL] 04-19-2020 16:59:11 Main CheckSelection - Fatal level can be displayed
+[INFO] 04-19-2020 16:59:11 Main CheckSelection - Choice 1 was selected
+[WARN] 04-19-2020 16:59:11 Main CheckSelection - Warning level can be displayed
+[ERROR] 04-19-2020 16:59:11 Main CheckSelection - Error level can be displayed
+[INFO] 04-19-2020 16:59:11 Main main - Hey we are at the beginning of the loop.
+[INFO] 04-19-2020 16:59:12 Main CheckSelection - Choice 7 was selected
